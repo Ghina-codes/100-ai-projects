@@ -9,7 +9,8 @@ Each project has its own repo, fully documented and updated as I grow.
 
 | # | Title | Tags | Link |
 |---|-------|------|------|
-| 1 | 🧠 IdeaBooster - Get Data & Insights | NLP, Text Preprocessing, Data Cleaning, Rule-based Classification | 📎 [Link](https://github.com/Ghina-codes/01-get-data-Ideabooster.git) |
+| 1 | IdeaBooster - Get Data & Insights | NLP, text preprocessing, rule-based classification | [🔗 View Project](https://github.com/Ghina-codes/01-get-data-Ideabooster) |
+
 
 
 
